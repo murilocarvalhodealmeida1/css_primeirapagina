@@ -1,17 +1,22 @@
 /*aqui eu apenas estou 'modelando' o site*/
 body{
-    color: gray;
+    color: black;
     background-color:pink
 }
 header{
-    background-color:aquamarine
+    position: relative;
+    background-color:antiquewhite
 }
 footer{
-    background-color:blanchedalmond
+    background-color:blanchedalmond;
 }
+
 /*aqui eu vou editar o tamanho das imagens*/
-    .banana{width:200px}
-    .teupai{width:200px}
-    .criadordomusikr{width:400px}
-    .ventotoba{width:200}
-    
+.banana{width:200px}
+.teupai{width:200px}
+.criadordomusikr{width:400px}
+.ventotoba{width:200}
+
+/*aqui vou fazer as margens*/
+
+.panaca{margin: 50px;}
